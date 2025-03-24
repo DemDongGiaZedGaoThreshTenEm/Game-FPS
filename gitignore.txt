@@ -49,7 +49,7 @@ ExportedObj/
 *.VC.db
 
 #Ignore asset directory
-Asset/
+Assets/
 
 # Unity3D generated meta files
 *.pidb.meta
